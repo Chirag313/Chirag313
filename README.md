@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chirag313
 - 👀 I’m interested in ...Design Patterns
-- 🌱 I’m currently learning ...Javascript 
+- 🌱 I’m currently learning ...ReactJS
 - 💞️ I’m looking to collaborate on ...Web Development Projects
 - 📫 How to reach me ...Chiragb3101@gmail.com
 
